@@ -1,2 +1,0 @@
-# practice
-first repository
